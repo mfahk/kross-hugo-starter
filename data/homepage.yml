@@ -48,6 +48,9 @@ education:
   enable: true
   title: Education
   item:
+  - title: Company formation
+    year: "10"
+    academy: Over decade
   - title: Marters in UX Design
     year: "2006"
     academy: Masassusets Institute of Technology
