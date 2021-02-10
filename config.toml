@@ -10,15 +10,15 @@ weight = 4
 [[menu.main]]
 URL = "blog"
 name = "News"
-weight = 3
+weight = 2
 [[menu.main]]
 URL = "portfolio"
 name = "Services"
-weight = 2
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 3
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
