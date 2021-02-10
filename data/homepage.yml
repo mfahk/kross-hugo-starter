@@ -14,9 +14,9 @@ about:
     URL: about
 skill:
   enable: true
-  title: Skills
+  title: Services
   item:
-  - title: Web Design
+  - title: Accounting
     progress: 90%
     color: "#fdb157"
   - title: Logo Design
